@@ -1,0 +1,13 @@
+17EARE401 Mobile Robots and Perception: Lecture Notes, Figures and Interactive Simulations
+
+Copyright (c) 2026 Dr. Rakesh P. Tapaskar
+Center for Automation and Robotics Research (CARR Lab), Department of Automation & Robotics Engineering, KLE Technological University, Hubballi
+All rights reserved.
+
+Authorship: the text, worked examples, question bank and marking schemes, all figures and block diagrams, the interactive simulations (assets/tools.js, assets/app.js) and the site design were created by Dr. Rakesh P. Tapaskar at the Center for Automation and Robotics Research (CARR Lab) for the course 17EARE401 Mobile Robots and Perception.
+
+Permitted use: students and faculty may view these pages online and print or save single copies for their own personal study, provided every copy keeps the copyright notice and watermarks intact.
+
+Not permitted without prior written permission from the author: reproducing, republishing, re-hosting or mirroring any part of this material; removing, cropping or obscuring watermarks, credits or copyright notices; adapting the content, figures or code into other courses, books, slides, videos, websites or products; any commercial use; and claiming authorship of any part.
+
+Provenance identifier: CARRLAB-17EARE401-2026. The dated commit history of the repository hosting this site is a record of authorship.
