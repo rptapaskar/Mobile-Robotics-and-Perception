@@ -1,0 +1,12 @@
+/* ---- provenance watermarks ---- */
+.cvwrap{position:relative}
+.wm{position:absolute;inset:0;pointer-events:none;border-radius:6px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='420' height='190'><text x='10' y='120' transform='rotate(-22 210 95)' font-family='IBM Plex Sans,Arial' font-size='15' font-weight='600' fill='%231F3A5F' fill-opacity='0.05'>Dr. Rakesh P. Tapaskar | CARR Lab, KLE Tech</text></svg>");background-repeat:repeat}
+.wm span{position:absolute;right:8px;bottom:6px;font-size:11px;font-weight:600;color:rgba(31,58,95,.55);background:rgba(255,255,255,.75);padding:1px 6px;border-radius:4px}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.55;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='420' height='190'><text x='10' y='120' transform='rotate(-22 210 95)' font-family='IBM Plex Sans,Arial' font-size='15' font-weight='600' fill='%231F3A5F' fill-opacity='0.05'>Dr. Rakesh P. Tapaskar | CARR Lab, KLE Tech</text></svg>")}
+.wrap,.top,.foot{position:relative;z-index:1}.top{z-index:40}
+.byline{font-size:.9rem;color:var(--muted);margin:-.2em 0 .9em}
+.foot .copy{font-weight:600;color:var(--ink2)}
+.deck-mark{position:absolute;left:28px;bottom:12px;font-size:14px;color:rgba(31,58,95,.6);font-weight:600}
+.deck-stage{background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='420' height='190'><text x='10' y='120' transform='rotate(-22 210 95)' font-family='IBM Plex Sans,Arial' font-size='15' font-weight='600' fill='%231F3A5F' fill-opacity='0.045'>Dr. Rakesh P. Tapaskar | CARR Lab, KLE Tech</text></svg>")}
+@media print{body::before{content:"\00A9  Dr. Rakesh P. Tapaskar | CARR Lab, KLE Tech";position:fixed;inset:auto;top:45%;left:0;right:0;text-align:center;font-size:44px;font-weight:700;color:rgba(31,58,95,.10);transform:rotate(-28deg);background:none;opacity:1;z-index:0}
+.foot{display:block!important}}
